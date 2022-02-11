@@ -1,9 +1,12 @@
 h1 {
     text-align: center;
+    font-size: 1.75em;
 }
 .title-text {
     display: flex;
     justify-content: center;
+    font-size: 1.25em;
+    font-weight: 700;
 }
 
 
@@ -42,7 +45,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-2 {
@@ -98,7 +101,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-2 {
@@ -149,7 +152,7 @@ h1 {
         width: 25%;
         height: 25px;
         float: right;
-        border: 1px dashed black;
+        border: 1px solid black;
     }
 
     #menu-title-2 {
