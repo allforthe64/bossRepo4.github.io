@@ -1,7 +1,10 @@
 h1 {
     text-align: center;
 }
-
+.title-text {
+    display: flex;
+    justify-content: center;
+}
 
 
 @media only screen and (min-width: 992px) {
@@ -159,7 +162,7 @@ h1 {
 
     #menu-title-3 {
         background-color: yellow;
-        width: 13%;
+        width: 25%;
         height: 25px;
         float: right;
         border: 1px dashed black;
